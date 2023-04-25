@@ -1,2 +1,4 @@
 # abril2023
-Prueba para clonar un repo
+Gustavo Jiménez
+Este repositorio es una prueba para clonar un repositorio desde Git Hub y clonarlo a mi pc ( de manera local)
+
